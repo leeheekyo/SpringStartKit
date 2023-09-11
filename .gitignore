@@ -1,0 +1,33 @@
+# common
+logs
+artifacts/logs
+
+# 2. back
+back/target
+back/build
+back/lib
+back/logs
+
+back/.DS_Store
+back/.classpath
+back/.project
+back/.settings
+back/.factorypath
+back/mvnw
+back/mvnw.cmd
+
+# 3. batch
+batch/target
+batch/build
+batch/lib
+batch/logs
+
+batch/.DS_Store
+batch/.classpath
+batch/.project
+batch/.settings
+batch/.factorypath
+batch/mvnw
+batch/mvnw.cmd
+
+# 4. front

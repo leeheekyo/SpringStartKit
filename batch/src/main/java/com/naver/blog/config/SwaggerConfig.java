@@ -29,11 +29,11 @@ public class SwaggerConfig {
 
     private ApiInfo apiInfo() {
         return new ApiInfo(
-                "Kakao REST API",
+                "Spring REST API",
                 "This is API document.",
                 "V1.0",
                 "Terms of service",
-                new Contact("kakao", "gmail.com", "kakao@gmail.com"),
+                new Contact("example", "example.com", "example@example.com"),
                 "License of API", "gmail.com", Collections.emptyList());
     }
 }
